@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mnmtanish/test-module-b/issues"
   },
-  "homepage": "https://github.com/mnmtanish/test-module-b#readme"
+  "homepage": "https://github.com/mnmtanish/test-module-b#readme",
+  "devDependencies": {
+    "test-module-a": "github:mnmtanish/test-module-a"
+  },
+  "peerDependencies": {
+    "test-module-a": "github:mnmtanish/test-module-a"
+  }
 }
