@@ -1,0 +1,20 @@
+{
+  "name": "test-module-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnmtanish/test-module-b.git"
+  },
+  "keywords": [],
+  "author": "Muhammed Thanish <mnmtanish@gmail.com> (http://thanish.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnmtanish/test-module-b/issues"
+  },
+  "homepage": "https://github.com/mnmtanish/test-module-b#readme"
+}
